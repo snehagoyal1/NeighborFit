@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NeighborFit</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <h1>NeighborFit</h1>
+
+    <form id="matchForm">
+      <!-- ✅ City Dropdown -->
+      <label
+        >Select City:
+        <select name="city" required>
+          <option value="">-- Choose a City --</option>
+          <option value="Bengaluru">Bengaluru</option>
+          <option value="Mumbai">Mumbai</option>
+          <option value="Delhi">Delhi</option>
+          <option value="Noida">Noida</option>
+          <option value="Lucknow">Lucknow</option>
+          <option value="Gurugram">Gurugram</option>
+        </select>
+      </label>
+      <br />
+
+      <!-- ✅ Budget Input -->
+      <label>Budget (₹): <input type="number" name="budget" required /></label
+      ><br />
+
+      <h3>Preference Importance (1-5)</h3>
+
+      <label
+        >Safety:
+        <input type="number" name="safety" min="1" max="5" required /> </label
+      ><br />
+      <label
+        >Nightlife:
+        <input
+          type="number"
+          name="nightlife"
+          min="1"
+          max="5"
+          required
+        /> </label
+      ><br />
+      <label
+        >Parks:
+        <input type="number" name="parks" min="1" max="5" required /> </label
+      ><br />
+      <label
+        >Walkability:
+        <input
+          type="number"
+          name="walkability"
+          min="1"
+          max="5"
+          required
+        /> </label
+      ><br />
+      <label
+        >Schools:
+        <input type="number" name="schools" min="1" max="5" required /> </label
+      ><br />
+
+      <button type="submit">Find Neighborhoods</button>
+    </form>
+
+    <div id="loader" class="hidden"></div>
+    <div id="results"></div>
+
+    <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </body>
+</html>

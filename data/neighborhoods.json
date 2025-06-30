@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Andheri",
+    "city": "Mumbai",
+    "safety": 6,
+    "rent": 28000,
+    "parks": 3,
+    "nightlife": 9,
+    "walkability": 7,
+    "schools": 5
+  },
+  {
+    "name": "Powai",
+    "city": "Mumbai",
+    "safety": 8,
+    "rent": 35000,
+    "parks": 4,
+    "nightlife": 6,
+    "walkability": 8,
+    "schools": 8
+  },
+  {
+    "name": "Bandra",
+    "city": "Mumbai",
+    "safety": 7,
+    "rent": 40000,
+    "parks": 2,
+    "nightlife": 10,
+    "walkability": 9,
+    "schools": 6
+  },
+  {
+    "name": "Hauz Khas",
+    "city": "Delhi",
+    "safety": 6,
+    "rent": 27000,
+    "parks": 4,
+    "nightlife": 9,
+    "walkability": 7,
+    "schools": 5
+  },
+  {
+    "name": "Dwarka",
+    "city": "Delhi",
+    "safety": 7,
+    "rent": 18000,
+    "parks": 6,
+    "nightlife": 5,
+    "walkability": 6,
+    "schools": 7
+  },
+  {
+    "name": "Saket",
+    "city": "Delhi",
+    "safety": 8,
+    "rent": 24000,
+    "parks": 5,
+    "nightlife": 7,
+    "walkability": 8,
+    "schools": 6
+  },
+  {
+    "name": "Whitefield",
+    "city": "Bengaluru",
+    "safety": 7,
+    "rent": 20000,
+    "parks": 5,
+    "nightlife": 6,
+    "walkability": 6,
+    "schools": 7
+  },
+  {
+    "name": "HSR Layout",
+    "city": "Bengaluru",
+    "safety": 8,
+    "rent": 23000,
+    "parks": 4,
+    "nightlife": 8,
+    "walkability": 9,
+    "schools": 6
+  },
+  {
+    "name": "Jayanagar",
+    "city": "Bengaluru",
+    "safety": 9,
+    "rent": 22000,
+    "parks": 7,
+    "nightlife": 4,
+    "walkability": 8,
+    "schools": 9
+  },
+  {
+    "name": "Karol Bagh",
+    "city": "Delhi",
+    "safety": 5,
+    "rent": 20000,
+    "parks": 3,
+    "nightlife": 6,
+    "walkability": 7,
+    "schools": 5
+  },
+  {
+    "name": "Sector 18",
+    "city": "Noida",
+    "safety": 7,
+    "rent": 22000,
+    "parks": 3,
+    "nightlife": 8,
+    "walkability": 8,
+    "schools": 5
+  },
+  {
+    "name": "Sector 62",
+    "city": "Noida",
+    "safety": 8,
+    "rent": 18000,
+    "parks": 4,
+    "nightlife": 5,
+    "walkability": 7,
+    "schools": 7
+  },
+  {
+    "name": "Sector 137",
+    "city": "Noida",
+    "safety": 6,
+    "rent": 16000,
+    "parks": 5,
+    "nightlife": 4,
+    "walkability": 6,
+    "schools": 6
+  },
+  {
+    "name": "Gomti Nagar",
+    "city": "Lucknow",
+    "safety": 8,
+    "rent": 15000,
+    "parks": 6,
+    "nightlife": 7,
+    "walkability": 7,
+    "schools": 8
+  },
+  {
+    "name": "Hazratganj",
+    "city": "Lucknow",
+    "safety": 7,
+    "rent": 17000,
+    "parks": 4,
+    "nightlife": 8,
+    "walkability": 8,
+    "schools": 6
+  },
+  {
+    "name": "Alambagh",
+    "city": "Lucknow",
+    "safety": 6,
+    "rent": 12000,
+    "parks": 3,
+    "nightlife": 5,
+    "walkability": 6,
+    "schools": 5
+  },
+  {
+    "name": "DLF Cyber City",
+    "city": "Gurugram",
+    "safety": 8,
+    "rent": 40000,
+    "parks": 3,
+    "nightlife": 9,
+    "walkability": 8,
+    "schools": 7
+  },
+  {
+    "name": "MG Road",
+    "city": "Gurugram",
+    "safety": 7,
+    "rent": 30000,
+    "parks": 2,
+    "nightlife": 9,
+    "walkability": 7,
+    "schools": 6
+  },
+  {
+    "name": "Sohna Road",
+    "city": "Gurugram",
+    "safety": 6,
+    "rent": 25000,
+    "parks": 4,
+    "nightlife": 6,
+    "walkability": 6,
+    "schools": 5
+  }
+]
+
+
