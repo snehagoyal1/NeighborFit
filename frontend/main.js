@@ -31,7 +31,7 @@ const budget = Number(formData.get('budget'));
   }
 
   try {
-    const res = await fetch('http://localhost:5000/api/match', {
+    const res = await fetch('https://neighborfit-qe7h.onrender.com/api/match', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ city, budget, importance })
